@@ -1,0 +1,2 @@
+idempotency:
+  methods: POST, PUT, PATCH, DELETE
